@@ -31,6 +31,12 @@
         <input type="Name" class="form-control" id="name" placeholder="Enter Name" name="name">
       </div>
     </div>
+<div class="form-group">
+      <label class="control-label col-sm-2" for="name">Name:</label>
+      <div class="col-sm-10">          
+        <input type="Name" class="form-control" id="name" placeholder="Enter Ndddame" name="name">
+      </div>
+    </div>
     <div class="form-group">        
       <div class="col-sm-offset-2 col-sm-10">
         <div class="checkbox">
