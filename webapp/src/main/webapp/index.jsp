@@ -37,6 +37,13 @@
         <input type="Child Name" class="form-control" id="name" placeholder="Enter Child Name" name="Child Name">
       </div>
     </div>
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="name">MotherName:</label>
+      <div class="col-sm-10">
+        <input type="mother Name" class="form-control" id="name" placeholder="Enter mother Name" name="Mother Name">
+      </div>
+    </div>
+
     <div class="form-group">        
       <div class="col-sm-offset-2 col-sm-10">
         <div class="checkbox">
