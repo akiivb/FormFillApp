@@ -32,9 +32,9 @@
       </div>
     </div>
 <div class="form-group">
-      <label class="control-label col-sm-2" for="name">Name:</label>
+      <label class="control-label col-sm-2" for="name">Child Name:</label>
       <div class="col-sm-10">          
-        <input type="Name" class="form-control" id="name" placeholder="Enter Ndddame" name="name">
+        <input type="Child Name" class="form-control" id="name" placeholder="Enter Child Name" name="Child Name">
       </div>
     </div>
     <div class="form-group">        
