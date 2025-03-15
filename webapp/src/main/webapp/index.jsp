@@ -28,19 +28,25 @@
 <div class="form-group">
       <label class="control-label col-sm-2" for="name">Name:</label>
       <div class="col-sm-10">          
-        <input type="Name" class="form-control" id="name" placeholder="Enter Name" name="name">
+        <input type="text" class="form-control" id="name" placeholder="Enter Name" name="name">
       </div>
     </div>
 <div class="form-group">
       <label class="control-label col-sm-2" for="name">Child Name:</label>
       <div class="col-sm-10">          
-        <input type="Child Name" class="form-control" id="name" placeholder="Enter Child Name" name="Child Name">
+        <input type="text" class="form-control" id="name" placeholder="Enter Child Name" name="Child Name">
       </div>
     </div>
     <div class="form-group">
       <label class="control-label col-sm-2" for="name">MotherName:</label>
       <div class="col-sm-10">
-        <input type="mother Name" class="form-control" id="name" placeholder="Enter mother Name" name="Mother Name">
+        <input type="text" class="form-control" id="name" placeholder="Enter mother Name" name="Mother Name">
+      </div>
+    </div>
+<div class="form-group">
+      <label class="control-label col-sm-2" for="name">Uncle Name:</label>
+      <div class="col-sm-10">
+        <input type="text Name" class="form-control" id="name" placeholder="Enter Uncle Name" name="Uncle Name">
       </div>
     </div>
 
